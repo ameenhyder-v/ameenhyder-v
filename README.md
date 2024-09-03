@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ameen Hyder</h1>
 <hr>
-<h3 align="center" >Self-Taught Developer | Passionate MERN Stack Specialist</h3>
+<h3 align="center" >Self-Taught Developer | Passionate MERN Stack Specialist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
 
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ameenhyder-v.github.io/portfolioNew/](https://ameenhyder-v.github.io/portfolioNew/)
 
-- 💬 Ask me about **MEARN-STACK**
+- 💬 Ask me about **MERN-STACK**
 
 - 📫 How to reach me **ameenhyder.v@gmail.com**
 
