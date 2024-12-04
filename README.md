@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenhyder-v&label=Profile%20views&color=0e75b6&style=flat" alt="ameenhyder-v" /> </p>
 
-- 🔭 I’m currently working on **My first E-commerce project**
+- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://ameenhyder-v.github.io/portfolioNew/](https://ameenhyder-v.github.io/portfolioNew/)
 
