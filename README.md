@@ -11,7 +11,7 @@
   <a href="mailto:ameenhyder.v@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://ameenhyder-v.github.io/portfolioNew/">
+  <a href="https://www.ameenhyder.online">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/@ameen_hyder_v">
@@ -44,11 +44,11 @@ const ameen = {
   name:       "Ameen Hyder V",
   location:   "Kerala, India 🇮🇳",
   role:       "Self-Taught MERN Stack Developer",
-  portfolio:  "https://ameenhyder-v.github.io/portfolioNew/",
+  portfolio:  "https://www.ameenhyder.online",
   email:      "ameenhyder.v@gmail.com",
   currentFocus: ["Data Structures & Algorithms", "Building Full-Stack Projects"],
   askMeAbout: ["MERN Stack", "React", "Node.js", "MongoDB", "REST APIs"],
-  funFact:    "I really like this Emoji 😎",
+  funFact:    "I taught myself to code — no CS degree, just curiosity and caffeine ☕",
 };
 ```
 
@@ -64,7 +64,6 @@ const ameen = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
