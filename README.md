@@ -1,82 +1,137 @@
-[![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://rishavchanda.io) 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Ameen Hyder</h1>
-<hr>
-<h3 align="center" >Self-Taught Developer | Passionate MERN Stack Specialist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:00d4ff&height=200&section=header&text=Ameen%20Hyder%20V&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Self-Taught%20%7C%20India&descAlignY=58&descColor=a0c4ff" />
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenhyder-v&label=Profile%20views&color=0e75b6&style=flat" alt="ameenhyder-v" /> </p>
+<div align="center">
+  <a href="https://linkedin.com/in/ameen-hyder">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ameenhyder.v@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://ameenhyder-v.github.io/portfolioNew/">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/@ameen_hyder_v">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://stackoverflow.com/users/27165698">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ameen_hyder">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/ameenhyder_v">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **DSA**
+<br/>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameenhyder-v&label=Profile+Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ameenhyder-v?label=Followers&style=flat-square&color=0e75b6" />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://ameenhyder-v.github.io/portfolioNew/](https://ameenhyder-v.github.io/portfolioNew/)
+---
 
-- 💬 Ask me about **MERN-STACK**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **ameenhyder.v@gmail.com**
+```javascript
+const ameen = {
+  name:       "Ameen Hyder V",
+  location:   "Kerala, India 🇮🇳",
+  role:       "Self-Taught MERN Stack Developer",
+  portfolio:  "https://ameenhyder-v.github.io/portfolioNew/",
+  email:      "ameenhyder.v@gmail.com",
+  currentFocus: ["Data Structures & Algorithms", "Building Full-Stack Projects"],
+  askMeAbout: ["MERN Stack", "React", "Node.js", "MongoDB", "REST APIs"],
+  funFact:    "I really like this Emoji 😎",
+};
+```
 
-- ⚡ Fun fact **I like this Emoji 😎**
+- 🔭 Currently sharpening my **DSA** skills to write cleaner, more efficient code
+- 🌱 Deep-diving into **Data Structures and Algorithms** in JavaScript
+- 🚀 Building projects that solve real-world problems
+- 💬 Happy to talk about **MERN Stack**, **API design**, or anything JavaScript
+- 📫 Reach me at **ameenhyder.v@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ameen-hyder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameen-hyder" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27165698" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27165698" height="30" width="40" /></a>
-<a href="https://instagram.com/ameen_hyder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameen_hyder" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ameenhyder_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ameenhyder_v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@ameen_hyder_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@ameen_hyder_v" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="background-color: #d1d7bc;"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-    </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-  </p>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameenhyder-v&show_icons=true&locale=en&layout=compact" alt="ameenhyder-v" /></p>
+## 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameenhyder-v&show_icons=true&locale=en" alt="ameenhyder-v" /></p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameenhyder-v&" alt="ameenhyder-v" /></p> -->
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameenhyder-v&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameenhyder-v&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ameenhyder-v&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ameenhyder-v&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/ameenhyder-v/Project-x">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameenhyder-v&repo=Project-x&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ameenhyder-v/netflix-clone">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameenhyder-v&repo=netflix-clone&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ameenhyder-v/ImageGenerateApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameenhyder-v&repo=ImageGenerateApp&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ameenhyder-v/DSA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ameenhyder-v&repo=DSA&theme=tokyonight&hide_border=true" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💡 "The best way to learn is to build. The best way to build is to keep learning."
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0e75b6,100:0d1117&height=100&section=footer" />
+
+</div>
