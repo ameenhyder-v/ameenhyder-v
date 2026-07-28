@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,35:121a34,70:1f3b73,100:2d6cdf&text=Ameen%20Hyder%20V&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Premium%20Full-Stack%20JavaScript%20Portfolio&descSize=17&descAlignY=62&animation=fadeIn" alt="Ameen Hyder V premium banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,35:121a34,70:1f3b73,100:2d6cdf&text=Ameen%20Hyder%20V&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20JavaScript%20Portfolio&descSize=17&descAlignY=62&animation=fadeIn" alt="Ameen Hyder V" />
 </div>
 
 <div align="center">
@@ -51,7 +51,7 @@ I am a self-taught developer focused on creating polished digital products that 
 
 ---
 
-## Premium Highlights
+## Highlights
 
 <table>
   <tr>
@@ -111,7 +111,7 @@ I am a self-taught developer focused on creating polished digital products that 
 
 ```js
 const portfolioMindset = {
-  principle: "Craft premium products with practical engineering",
+  principle: "Craft polished products with practical engineering",
   process: ["Understand", "Design", "Build", "Refine", "Scale"],
   standards: ["Readable code", "Reliable APIs", "Consistent UX"],
   mission: "Turn ideas into elegant, high-impact web experiences"
@@ -133,5 +133,5 @@ const portfolioMindset = {
 
 <div align="center">
   <h3>Build Bold. Ship Clean. Keep Evolving.</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d6cdf,60:1f3b73,100:0b1020&section=footer" alt="Premium footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d6cdf,60:1f3b73,100:0b1020&section=footer" alt="Footer banner" />
 </div>
