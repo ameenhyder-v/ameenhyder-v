@@ -87,7 +87,7 @@ const developer = {
   name: "Ameen Hyder V",
   role: "Full-Stack JavaScript Developer",
   location: "Kerala, India",
-  specialisation: ["MERN Stack", "REST APIs", "Backend Development", "NODE.JS],
+  specialisation: ["MERN Stack", "REST APIs", "Backend Development", "NODE.JS"],
   currentlyLearning: ["Data Structures", "Algorithms", "System Design Basics"],
   openTo: ["Collaborations", "Freelance Opportunities", "Developer Roles"],
 };
