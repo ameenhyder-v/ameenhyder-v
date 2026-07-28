@@ -1,54 +1,82 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=160&section=header&text=Ameen%20Hyder%20V&fontSize=42&fontColor=ffffff&desc=Full-Stack%20JavaScript%20Developer&descAlignY=68&animation=fadeIn" alt="Ameen Hyder V banner" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0b1020,35:121a34,70:1f3b73,100:2d6cdf&text=Ameen%20Hyder%20V&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Premium%20Full-Stack%20JavaScript%20Portfolio&descSize=17&descAlignY=62&animation=fadeIn" alt="Ameen Hyder V premium banner" />
+</div>
 
-# Ameen Hyder V
+<div align="center">
+  <h1>Designing Reliable Digital Experiences</h1>
+  <p><strong>Full-Stack JavaScript Developer</strong> • Kerala, India</p>
+  <p>
+    I craft elegant frontend experiences, dependable backend systems, and clean API architectures
+    that turn ideas into scalable, production-ready products.
+  </p>
+</div>
 
-**Full-Stack JavaScript Developer**  
-Kerala, India
+<div align="center">
+  <a href="https://www.ameenhyder.online">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ameen-hyder">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ameenhyder.v@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-I build modern web applications with a strong focus on clean frontend experiences, reliable backend systems, and practical API design. My work is centered around creating products that are useful, maintainable, and performance-conscious.
+<div align="center">
+  <a href="https://leetcode.com/u/ameen_hyder_v/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/ameenhyder_v">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://stackoverflow.com/users/27165698">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://instagram.com/ameen_hyder">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
-<p>
-  <a href="https://www.ameenhyder.online"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ameen-hyder"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ameenhyder.v@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/ameen_hyder_v/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/ameenhyder_v"><img src="https://img.shields.io/badge/HackerRank-00B067?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://stackoverflow.com/users/27165698"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ameenhyder-v&label=Views&color=0f172a&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ameenhyder-v?label=Followers&style=flat-square&color=0f172a" alt="GitHub followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameenhyder-v&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ameenhyder-v?label=Followers&style=flat-square&color=1e3a8a" alt="GitHub followers" />
+</div>
 
 ---
 
-## Profile
+## Executive Summary
 
-I am a self-taught developer who enjoys transforming ideas into polished web products. I like working across the full stack, from responsive interfaces to backend architecture, and I continuously improve through hands-on building and problem solving.
+I am a self-taught developer focused on creating polished digital products that balance design quality, system reliability, and maintainable code standards. My process emphasizes clarity, scalability, and user-centric thinking from first concept to deployment.
 
 ---
 
-## At A Glance
+## Premium Highlights
 
 <table>
   <tr>
-    <td width="50%">
-      <strong>What I Do</strong>
+    <td width="33%" valign="top">
+      <h3>Product Thinking</h3>
       <ul>
-        <li>Build end-to-end web applications</li>
-        <li>Develop REST APIs with clean structure</li>
-        <li>Create responsive, user-focused interfaces</li>
-        <li>Improve maintainability through better code organization</li>
+        <li>Build with real user outcomes in mind</li>
+        <li>Prioritize clarity over complexity</li>
+        <li>Transform requirements into clean workflows</li>
       </ul>
     </td>
-    <td width="50%">
-      <strong>What I Am Focused On</strong>
+    <td width="33%" valign="top">
+      <h3>Engineering Focus</h3>
+      <ul>
+        <li>Robust REST API implementation</li>
+        <li>Structured backend logic and validation</li>
+        <li>Responsive and maintainable frontend systems</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Growth Track</h3>
       <ul>
         <li>Advanced JavaScript and TypeScript</li>
-        <li>Data structures and algorithms</li>
-        <li>Backend reliability and validation patterns</li>
-        <li>Better architecture for scalable applications</li>
+        <li>Data structures and algorithmic problem solving</li>
+        <li>Scalable architecture and code quality</li>
       </ul>
     </td>
   </tr>
@@ -56,63 +84,54 @@ I am a self-taught developer who enjoys transforming ideas into polished web pro
 
 ---
 
-## Tech Landscape
+## Technology Stack
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=flat-square&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6D28D9?style=flat-square&logo=bootstrap&logoColor=white)
+### Frontend Craft
+![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1220?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-047857?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white)
+### Backend Foundation
+![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-0B1220?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-**Tools**  
-![Git](https://img.shields.io/badge/Git-B91C1C?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-EA580C?style=flat-square&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazon-aws&logoColor=F59E0B)
-![Figma](https://img.shields.io/badge/Figma-DB2777?style=flat-square&logo=figma&logoColor=white)
-![C](https://img.shields.io/badge/C-1E40AF?style=flat-square&logo=c&logoColor=white)
+### Tools and Workflow
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0B1220?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![AWS](https://img.shields.io/badge/AWS-0B1220?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Figma](https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
 ---
 
-## Working Style
+## Signature Approach
 
 ```js
-const ameen = {
-  approach: "Build with clarity, improve with consistency",
-  strengths: [
-    "Full-stack JavaScript development",
-    "REST API implementation",
-    "Responsive UI development",
-    "Continuous self-learning"
-  ],
-  currentDirection: [
-    "Stronger problem solving",
-    "Better system thinking",
-    "Cleaner production-ready code"
-  ]
+const portfolioMindset = {
+  principle: "Craft premium products with practical engineering",
+  process: ["Understand", "Design", "Build", "Refine", "Scale"],
+  standards: ["Readable code", "Reliable APIs", "Consistent UX"],
+  mission: "Turn ideas into elegant, high-impact web experiences"
 };
 ```
 
 ---
 
-## Find Me Online
+## Connect
 
 - Portfolio: `https://www.ameenhyder.online`
 - LinkedIn: `https://linkedin.com/in/ameen-hyder`
+- Email: `ameenhyder.v@gmail.com`
 - LeetCode: `https://leetcode.com/u/ameen_hyder_v/`
 - HackerRank: `https://www.hackerrank.com/ameenhyder_v`
 - Stack Overflow: `https://stackoverflow.com/users/27165698`
-- Instagram: `https://instagram.com/ameen_hyder`
 
 ---
 
-## Contact
-
-For collaboration, freelance work, or developer opportunities: `ameenhyder.v@gmail.com`
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,20,12&height=80&section=footer" alt="Footer banner" />
+<div align="center">
+  <h3>Build Bold. Ship Clean. Keep Evolving.</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d6cdf,60:1f3b73,100:0b1020&section=footer" alt="Premium footer banner" />
+</div>
